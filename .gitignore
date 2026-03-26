@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.faiss
+*.pkl
+*.json
+*.pdf
+research_papers_faiss/
+api_output/
+parsed_output/
+Data/
+graph.html
